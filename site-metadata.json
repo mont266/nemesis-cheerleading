@@ -1,13 +1,14 @@
 {
-    "title": "Stackbit Libris Theme",
-    "description": "A documentation theme",
-    "palette": "blue",
+    "title": "Nemesis Cheer and Dance",
+    "description": "Nemesis Cheer and Dance group in Northern Ireland.",
+    "palette": "green",
     "palettes": {
         "blue": {
             "type": "palette",
             "sass": {
                 "accent1": "#00c6ff",
                 "accent2": "#0072ff"
+                
             }
         },
         "green": {
@@ -34,7 +35,7 @@
     },
     "header": {
         "type": "header",
-        "title": "Libris",
+        "title": "Nemesis Cheer and Dance",
         "logo_img": "images/logo.svg",
         "has_nav": true,
         "nav_links": [
@@ -89,7 +90,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "GitHub",
+                "label": "Contact Us",
                 "url": "https://github.com/",
                 "style": "primary",
                 "has_subnav": false
@@ -98,12 +99,12 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit-Libris. All rights reserved.",
+        "content": "&copy; Nemsis Cheer and Dance. All rights reserved.",
         "links": [
             {
                 "type": "action",
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "label": "Developed by Talisman Webs",
+                "url": "https://www.talismanwebs.com",
                 "style": "link",
                 "new_window": true
             }
@@ -112,26 +113,18 @@
         "social_links": [
             {
                 "type": "action",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/Nemesis-Cheer-and-Dance-103294621499609/",
+                "style": "icon",
+                "icon_class": "fa-facebook",
+                "new_window": true
+            },
+            {
+                "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
                 "new_window": true
             }
         ]
