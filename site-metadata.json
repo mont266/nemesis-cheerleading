@@ -91,7 +91,7 @@
             {
                 "type": "action_menu",
                 "label": "Contact Us",
-                "url": "https://github.com/",
+                "url": "/contact-us",
                 "style": "primary",
                 "has_subnav": false
             }
