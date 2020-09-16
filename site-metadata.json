@@ -63,7 +63,7 @@
             {
                 "type": "action_menu",
                 "label": "Gallery",
-                "url": "/showcase",
+                "url": "/",
                 "style": "link",
                 "has_subnav": false
             },

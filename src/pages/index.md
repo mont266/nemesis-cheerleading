@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hero Section
+    title: Main Header
     section_id: hero
     image: images/5.jpg
     content: >-
@@ -18,7 +18,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Documentation
+        title: Header 1
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
@@ -29,7 +29,7 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Blog
+        title: Header 3
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -39,7 +39,7 @@ sections:
             url: /blog
             style: link
       - type: grid_item
-        title: Style Guides
+        title: Header 3
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,

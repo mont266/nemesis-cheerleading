@@ -1,11 +1,11 @@
 ---
-title: Showcase
+title: Gallery
 sections:
   - type: section_hero
-    title: Showcase
+    title: Gallery
     section_id: hero
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: See us in action!
   - type: section_grid
     section_id: showcase
     col_number: three
