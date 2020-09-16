@@ -48,7 +48,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Docs",
+                "label": "Learn More",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
@@ -62,28 +62,14 @@
             },
             {
                 "type": "action_menu",
-                "label": "Sample Pages",
-                "url": "#",
+                "label": "Gallery",
+                "url": "/showcase",
                 "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "type": "action",
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "has_subnav": false
             },
             {
                 "type": "action_menu",
-                "label": "Style Guide",
+                "label": "About Us",
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
