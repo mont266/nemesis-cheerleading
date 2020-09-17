@@ -1,118 +1,117 @@
 {
-    "title": "Nemesis Cheer and Dance",
-    "description": "Nemesis Cheer and Dance group in Northern Ireland.",
-    "palette": "violet",
-    "palettes": {
-        "blue": {
-            "type": "palette",
-            "sass": {
-                "accent1": "#00c6ff",
-                "accent2": "#0072ff"
-                
-            }
-        },
-        "green": {
-            "type": "palette",
-            "sass": {
-                "accent1": "#12db5d",
-                "accent2": "#11998e"
-            }
-        },
-        "navy": {
-            "type": "palette",
-            "sass": {
-                "accent1": "#004e92",
-                "accent2": "#000428"
-            }
-        },
-        "violet": {
-            "type": "palette",
-            "sass": {
-                "accent1": "#8e2de2",
-                "accent2": "#4a00e0"
-            }
-        }
+  "title": "Nemesis Cheer and Dance",
+  "description": "Nemesis Cheer and Dance group in Northern Ireland.",
+  "palette": "violet",
+  "palettes": {
+    "blue": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#00c6ff",
+        "accent2": "#0072ff"
+      }
     },
-    "header": {
-        "type": "header",
-        "title": "Nemesis Cheer and Dance",
-        "logo_img": "images/logo.svg",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action_menu",
-                "label": "Home",
-                "url": "/",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Learn More",
-                "url": "/docs",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Gallery",
-                "url": "/",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "About Us",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
-                "label": "Contact Us",
-                "url": "/contact-us",
-                "style": "primary",
-                "has_subnav": false
-            }
-        ]
+    "green": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#12db5d",
+        "accent2": "#11998e"
+      }
     },
-    "footer": {
-        "type": "footer",
-        "content": "&copy; Nemsis Cheer and Dance. All rights reserved.",
-        "links": [
-            {
-                "type": "action",
-                "label": "Developed by Talisman Webs",
-                "url": "https://www.talismanwebs.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
-        "has_social": true,
-        "social_links": [
-            {
-                "type": "action",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/Nemesis-Cheer-and-Dance-103294621499609/",
-                "style": "icon",
-                "icon_class": "fa-facebook",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            }
-        ]
+    "navy": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#004e92",
+        "accent2": "#000428"
+      }
+    },
+    "violet": {
+      "type": "palette",
+      "sass": {
+        "accent1": "#8e2de2",
+        "accent2": "#4a00e0"
+      }
     }
+  },
+  "header": {
+    "type": "header",
+    "title": "Nemesis Cheer and Dance",
+    "logo_img": "/images/logo.svg",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action_menu",
+        "label": "Home",
+        "url": "/",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Learn More",
+        "url": "/docs",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Blog",
+        "url": "/blog",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Gallery",
+        "url": "/",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "About Us",
+        "url": "/style-guide",
+        "style": "link",
+        "has_subnav": false
+      },
+      {
+        "type": "action_menu",
+        "label": "Contact Us",
+        "url": "/contact-us",
+        "style": "primary",
+        "has_subnav": false
+      }
+    ]
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; Nemsis Cheer and Dance. All rights reserved.",
+    "links": [
+      {
+        "type": "action",
+        "label": "Developed by Talisman Webs",
+        "url": "https://www.talismanwebs.com",
+        "style": "link",
+        "new_window": true
+      }
+    ],
+    "has_social": true,
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/Nemesis-Cheer-and-Dance-103294621499609/",
+        "style": "icon",
+        "icon_class": "fa-facebook",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Twitter",
+        "url": "https://twitter.com/",
+        "style": "icon",
+        "icon_class": "fa-twitter",
+        "new_window": true
+      }
+    ]
+  }
 }
