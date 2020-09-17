@@ -3,7 +3,7 @@ backend:
   branch: master
 media_folder: static/images
 public_folder: /images
-logo_url: https://nemesis-cheer.netlify.app/images/logo.svg
+logo_url: https://nemesis-cheer.netlify.app/images/cms_logo.png
 collections:
   - name: config
     label: Site Configuration
