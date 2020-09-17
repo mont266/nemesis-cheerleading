@@ -5,9 +5,8 @@ sections:
     title: Main Header
     section_id: hero
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: This section can contain a subtitle or tagline. The recommended length
+      is one to three sentences, but can be changed as you prefer.
     actions:
       - type: action
         label: Get Started
@@ -19,9 +18,8 @@ sections:
     grid_items:
       - type: grid_item
         title: Header 1
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
+          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
@@ -29,10 +27,9 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Header 3
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        title: Header 2
+        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
+          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - type: action
             label: View Posts
@@ -40,9 +37,8 @@ sections:
             style: link
       - type: grid_item
         title: Header 3
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
+          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
@@ -54,9 +50,8 @@ sections:
     section_id: text-img
     image: images/10.jpg
     image_position: left
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
+    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
+      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
       - type: action
@@ -75,8 +70,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
         actions:
@@ -86,9 +80,8 @@ sections:
             style: link
       - type: grid_item
         title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
+          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
@@ -107,9 +100,8 @@ sections:
   - type: section_content
     title: A Section Without Image
     section_id: text-no-img
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
+    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
+      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
       - type: action
