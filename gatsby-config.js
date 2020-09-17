@@ -72,16 +72,6 @@ module.exports = {
                 display: 'standalone',
                 icon: 'public/images/favicon.png',
             }
-        },
-        {
-            resolve: 'gatsby-plugin-google-analytics',
-            options: {
-                // The property ID; the tracking code won't be generated without it
-                trackingId: process.env.UA-178295922-1 || none,
-                // Any additional optional fields
-                sampleRate: 5,
-                siteSpeedSampleRate: 10,
-            }
         }
     ]
 };
