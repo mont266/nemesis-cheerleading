@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Main Header
+    title: Welcome to Nemesis Cheer and Dance
     section_id: hero
     image: images/5.jpg
     content: This section can contain a subtitle or tagline. The recommended length
