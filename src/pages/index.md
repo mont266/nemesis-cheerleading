@@ -17,7 +17,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Header 1
+        title: About Us
         content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
           maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
@@ -27,26 +27,26 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Header 2
+        title: Classes
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - type: action
-            label: View Posts
+            label: View Classes
             url: /blog
             style: link
       - type: grid_item
-        title: Header 3
+        title: Contact Us
         content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
           maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
-            label: Learn More
+            label: Contact Us
             url: /style-guide
             style: link
   - type: section_content
-    title: A Section With An Image
+    title: Gallery
     section_id: text-img
     image: images/10.jpg
     image_position: left
@@ -59,7 +59,7 @@ sections:
         url: /docs/getting-started
         style: primary
       - type: action
-        label: Get Started
+        label: View Gallery
         url: /docs/getting-started
         style: secondary
   - type: section_grid
@@ -69,7 +69,7 @@ sections:
     col_number: two
     grid_items:
       - type: grid_item
-        title: Overview
+        title: Club Policies
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
@@ -79,7 +79,7 @@ sections:
             url: /overview
             style: link
       - type: grid_item
-        title: Showcase
+        title: Junior Coaching Opportunities
         content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
           maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
@@ -89,7 +89,7 @@ sections:
             url: /showcase
             style: link
   - type: section_cta
-    title: The Title of The Call to Action Block
+    title: Join Today!
     section_id: cta
     subtitle: This is an optional description for the call to action block.
     actions:
@@ -98,7 +98,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
   - type: section_content
-    title: A Section Without Image
+    title: Checkout Our Blog
     section_id: text-no-img
     content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
       amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
