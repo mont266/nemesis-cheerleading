@@ -6,7 +6,7 @@
     "red": {
       "type": "palette",
       "sass": {
-        "accent1": "ff0202",
+        "accent1": "ff0000",
         "accent2": "ff0202"
       }
     },
