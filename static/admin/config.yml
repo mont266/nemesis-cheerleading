@@ -269,7 +269,7 @@ collections:
                 hint: The type of the object
                 default: footer
   - name: doc_sections
-    label: Documentation Sections
+    label: Learn More Sections
     files:
       - name: doc_sections
         label: Documentation Sections
@@ -297,7 +297,7 @@ collections:
               name: string
               widget: string
   - name: docs
-    label: Documentation Pagess
+    label: Learn More Pages
     folder: src/pages/docs
     create: true
     extension: md
@@ -724,36 +724,6 @@ collections:
                     required: true
                     hint: The type of the object
                     default: action
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: true
-                    hint: The title of the page.
-                  - widget: string
-                    name: subtitle
-                    label: Subtitle
-                    required: false
-                    hint: The text shown just below the page title.
-                  - widget: string
-                    name: excerpt
-                    label: Excerpt
-                    required: false
-                    hint: The excerpt of the page displayed in meta data.
-                  - widget: image
-                    name: image
-                    label: Image
-                    required: false
-                    hint: The image shown below the page title and subtitle.
-                  - widget: hidden
-                    name: template
-                    label: Template
-                    required: true
-                    default: page
-                  - widget: markdown
-                    name: body
-                    label: Content
-                    required: false
-                    hint: Page content
               - widget: hidden
                 name: type
                 label: Object Type
@@ -800,6 +770,47 @@ collections:
             label: Template
             required: true
             default: blog
+  - name: page
+    label: Pages
+    folder: src/pages/
+    create: true
+    extension: md
+    identifier_field: title
+    slug: '{{slug}}'
+    fields:
+      - widget: string
+        name: title
+        label: Title
+        required: true
+        hint: The title of the page.
+      - widget: string
+        name: subtitle
+        label: Subtitle
+        required: false
+        hint: The text shown just below the page title.
+      - widget: string
+        name: excerpt
+        label: Excerpt
+        required: false
+        hint: The excerpt of the page displayed in meta data.
+      - widget: image
+        name: image
+        label: Image
+        required: false
+        hint: The image shown below the page title and subtitle.
+      - widget: hidden
+        name: template
+        label: Template
+        required: true
+        default: page
+      - widget: markdown
+        name: body
+        label: Content
+        required: false
+        hint: Page content
+    filter:
+      field: template
+      value: page
   - name: post
     label: Posts
     folder: src/pages/blog
