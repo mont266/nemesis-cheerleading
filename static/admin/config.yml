@@ -340,7 +340,7 @@ collections:
       field: template
       value: docs
   - name: advanced
-    label: Pages
+    label: Advanced Pages
     folder: src/pages/
     create: true
     extension: md
