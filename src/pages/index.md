@@ -24,7 +24,7 @@ sections:
         actions:
           - type: action
             label: Get Started
-            url: /docs
+            url: /
             style: link
       - type: grid_item
         title: Classes
@@ -33,7 +33,7 @@ sections:
         actions:
           - type: action
             label: View Classes
-            url: /blog
+            url: /docs/classes
             style: link
       - type: grid_item
         title: Contact Us
@@ -43,7 +43,7 @@ sections:
         actions:
           - type: action
             label: Contact Us
-            url: /style-guide
+            url: /contact-us
             style: link
   - type: section_content
     title: Gallery
@@ -76,7 +76,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /overview
+            url: /docs/policies
             style: link
       - type: grid_item
         title: Junior Coaching Opportunities
@@ -100,13 +100,11 @@ sections:
   - type: section_content
     title: Checkout Our Blog
     section_id: text-no-img
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: Keep up to date with the latest Nemesis Cheer and Dance news!
     actions:
       - type: action
         label: Get Started
-        url: /docs/getting-started/installation
+        url: /blog
         style: primary
 template: advanced
 ---

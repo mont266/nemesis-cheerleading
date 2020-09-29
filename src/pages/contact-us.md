@@ -22,6 +22,8 @@ form_fields:
     options:
       - Error on the site
       - Sponsorship
+      - Club Membership
+      - More Information
       - Other
   - type: form_field
     input_type: textarea
