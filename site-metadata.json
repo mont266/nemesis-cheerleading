@@ -76,7 +76,7 @@
       {
         "type": "action_menu",
         "label": "About Us",
-        "url": "/",
+        "url": "/about",
         "style": "link",
         "has_subnav": false
       },

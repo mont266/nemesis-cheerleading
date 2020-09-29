@@ -24,7 +24,7 @@ sections:
         actions:
           - type: action
             label: Get Started
-            url: /
+            url: /about
             style: link
       - type: grid_item
         title: Classes
