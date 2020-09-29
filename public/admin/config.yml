@@ -667,38 +667,6 @@ collections:
     filter:
       field: template
       value: advanced
-  - name: blog
-    label: Blog
-    files:
-      - name: blog
-        label: Blog
-        file: src/pages/blog/index.md
-        fields:
-          - widget: string
-            name: title
-            label: Title
-            required: true
-            hint: The title of the page.
-          - widget: string
-            name: subtitle
-            label: Subtitle
-            required: false
-            hint: The text shown just below the page title.
-          - widget: string
-            name: excerpt
-            label: Excerpt
-            required: false
-            hint: The excerpt of the page displayed in meta data.
-          - widget: image
-            name: image
-            label: Image
-            required: false
-            hint: The image shown in the background of the page header.
-          - widget: hidden
-            name: template
-            label: Template
-            required: true
-            default: blog
   - name: page
     label: Pages
     folder: src/pages/
@@ -740,8 +708,41 @@ collections:
     filter:
       field: template
       value: page
+  - name: blog
+    label: Blog Settings
+    files:
+      - name: blog
+        label: Blog
+        file: src/pages/blog/index.md
+        fields:
+          - widget: string
+            name: title
+            label: Title
+            required: true
+            hint: The title of the page.
+          - widget: string
+            name: subtitle
+            label: Subtitle
+            required: false
+            hint: The text shown just below the page title.
+          - widget: string
+            name: excerpt
+            label: Excerpt
+            required: false
+            hint: The excerpt of the page displayed in meta data.
+          - widget: image
+            name: image
+            label: Image
+            required: false
+            hint: The image shown in the background of the page header.
+          - widget: hidden
+            name: template
+            label: Template
+            required: true
+            default: blog
+
   - name: post
-    label: Posts
+    label: Blog Posts
     folder: src/pages/blog
     create: true
     extension: md
