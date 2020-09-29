@@ -1,8 +1,15 @@
 {
   "title": "Nemesis Cheer and Dance",
   "description": "Nemesis Cheer and Dance group in Northern Ireland.",
-  "palette": "violet",
+  "palette": "red",
   "palettes": {
+    "red": {
+      "type": "palette",
+      "sass": {
+        "accent1": "ff0202",
+        "accent2": "555555"
+      }
+    },
     "blue": {
       "type": "palette",
       "sass": {
