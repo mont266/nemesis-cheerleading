@@ -5,13 +5,8 @@ sections:
     title: Welcome to Nemesis Cheer and Dance
     section_id: hero
     image: images/5.jpg
-    content: This section can contain a subtitle or tagline. The recommended length
-      is one to three sentences, but can be changed as you prefer.
+    content: 
     actions:
-      - type: action
-        label: Get Started
-        url: /docs
-        style: primary
   - type: section_grid
     section_id: features
     col_number: three
@@ -63,9 +58,9 @@ sections:
         url: /docs/getting-started
         style: secondary
   - type: section_grid
-    title: Sample Layouts
+    title: 
     section_id: features-two-col
-    subtitle: An optional subtitle of the section
+    subtitle: 
     col_number: two
     grid_items:
       - type: grid_item
@@ -91,11 +86,11 @@ sections:
   - type: section_cta
     title: Join Today!
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Get in touch and join our classes today!
     actions:
       - type: action
         label: Get Started
-        url: /docs/getting-started/installation
+        url: /contact-us
         style: primary
   - type: section_content
     title: Checkout Our Blog
@@ -103,7 +98,7 @@ sections:
     content: Keep up to date with the latest Nemesis Cheer and Dance news!
     actions:
       - type: action
-        label: Get Started
+        label: Click here
         url: /blog
         style: primary
 template: advanced
