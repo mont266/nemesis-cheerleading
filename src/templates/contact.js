@@ -17,6 +17,44 @@ export const query = graphql`
 `;
 
 export default class Page extends React.Component {
+  state = {
+    name: '',
+    email: '',
+    message: ''
+  };
+  handleInputChange = (event) => {
+    const target = event.target;
+    const value = target.value;
+    const name = target.name;
+    this.setState({
+        [name]: value
+    });
+  };
+  encode = (data) => {
+    return Object.keys(data)
+        .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+        .join("&");
+  }
+  handleSubmit = async (e) => {
+    e.preventDefault();
+    const options = {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: this.encode({ 'form-name': 'contact', ...this.state })
+    }
+
+    fetch(
+      "/",
+      options
+    )
+    .then(function (response) {
+      window.location.assign('');
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+  };
+
     render() {
         return (
             <Layout {...this.props}>
