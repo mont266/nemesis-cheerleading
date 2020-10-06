@@ -24,8 +24,6 @@ export const query = graphql`
 
 export default class Page extends React.Component {
     render() {
-      const [state, setState] = React.useState({})
-
       const handleChange = (e) => {
         setState({ ...state, [e.target.name]: e.target.value })
       }
@@ -44,7 +42,7 @@ export default class Page extends React.Component {
           .then(() => navigate(form.getAttribute('action')))
           .catch((error) => alert(error))
       }
-      
+
         return (
             <Layout {...this.props}>
               <article className="post post-full">
