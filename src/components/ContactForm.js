@@ -46,7 +46,7 @@ export default function ContactForm() {
 
   return (
     <div>
-      <h1>Contact</h1>
+      <h1>Contact </h1>
       <form
         style={formStyle}
         name="contact"
