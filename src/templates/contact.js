@@ -5,12 +5,7 @@ import {graphql} from 'gatsby';
 import {Layout} from '../components/index';
 import {toStyleObj, withPrefix, htmlToReact} from '../utils';
 import FormField from '../components/FormField';
-
-function encode(data) {
-  return Object.keys(data)
-    .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
-    .join('&')
-}
+import ContactForm from '../components/ContactForm'
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -22,30 +17,8 @@ export const query = graphql`
   }
 `;
 
-
 export default class Page extends React.Component {
-
     render() {
-      const [state, setState] = React.useState({})
-
-      const handleChange = (e) => {
-        setState({ ...state, [e.target.name]: e.target.value })
-      }
-    
-      const handleSubmit = (e) => {
-        e.preventDefault()
-        const form = e.target
-        fetch('/', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-          body: encode({
-            'form-name': form.getAttribute('name'),
-            ...state,
-          }),
-        })
-          .then(() => navigate(form.getAttribute('action')))
-          .catch((error) => alert(error))
-      }
 
         return (
             <Layout {...this.props}>
@@ -67,7 +40,8 @@ export default class Page extends React.Component {
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
-                  <form name={_.get(this.props, 'pageContext.frontmatter.form_id', null)} id={_.get(this.props, 'pageContext.frontmatter.form_id', null)} {...(_.get(this.props, 'pageContext.frontmatter.form_action', null) ? ({action: _.get(this.props, 'pageContext.frontmatter.form_action', null)}) : null)} name="contact" action="/thanks/" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
+                      <ContactForm />
+{/*                   <form name={_.get(this.props, 'pageContext.frontmatter.form_id', null)} id={_.get(this.props, 'pageContext.frontmatter.form_id', null)} {...(_.get(this.props, 'pageContext.frontmatter.form_action', null) ? ({action: _.get(this.props, 'pageContext.frontmatter.form_action', null)}) : null)} name="contact" action="/thanks/" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={handleSubmit}>
                         <div className="screen-reader-text">
                           <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                         </div>
@@ -78,7 +52,7 @@ export default class Page extends React.Component {
                         <div className="form-submit">
                           <button type="submit" className="button">{_.get(this.props, 'pageContext.frontmatter.submit_label', null)}</button>
                         </div>
-                      </form>
+                      </form> */}
                 </div>
               </article>
             </Layout>
