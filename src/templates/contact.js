@@ -12,71 +12,74 @@ function encode(data) {
     .join('&')
 }
 
-export default function Contact() {
-  const [state, setState] = React.useState({})
-
-  const handleChange = (e) => {
-    setState({ ...state, [e.target.name]: e.target.value })
+// this minimal GraphQL query ensures that when 'gatsby develop' is running,
+// any changes to content files are reflected in browser
+export const query = graphql`
+  query($url: String) {
+    sitePage(path: {eq: $url}) {
+      id
+    }
   }
+`;
 
-  const handleSubmit = (e) => {
-    e.preventDefault()
-    const form = e.target
-    fetch('/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: encode({
-        'form-name': form.getAttribute('name'),
-        ...state,
-      }),
-    })
-      .then(() => navigate(form.getAttribute('action')))
-      .catch((error) => alert(error))
-  }
+export default class Page extends React.Component {
+    render() {
+      const [state, setState] = React.useState({})
 
-  return (
-    <div>
-      <form
-        style={formStyle}
-        name="contact"
-        method="post"
-        action="/thanks/"
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-        onSubmit={handleSubmit}
-      >
-        {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-        <input type="hidden" name="form-name" value="contact" />
-        <p hidden>
-          <label>
-            Don’t fill this out: <input name="bot-field" onChange={handleChange} />
-          </label>
-        </p>
-        <p>
-          <label>
-            Your name:
-            <br />
-            <input style={inputStyle} type="text" name="name" onChange={handleChange} />
-          </label>
-        </p>
-        <p>
-          <label>
-            Your email:
-            <br />
-            <input style={inputStyle} type="email" name="email" onChange={handleChange} />
-          </label>
-        </p>
-        <p>
-          <label>
-            Message:
-            <br />
-            <textarea style={inputStyle} name="message" onChange={handleChange} />
-          </label>
-        </p>
-        <p>
-          <button style={buttonStyle} type="submit">Send</button>
-        </p>
-      </form>
-    </div>
-  )
+      const handleChange = (e) => {
+        setState({ ...state, [e.target.name]: e.target.value })
+      }
+    
+      const handleSubmit = (e) => {
+        e.preventDefault()
+        const form = e.target
+        fetch('/', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: encode({
+            'form-name': form.getAttribute('name'),
+            ...state,
+          }),
+        })
+          .then(() => navigate(form.getAttribute('action')))
+          .catch((error) => alert(error))
+      }
+      
+        return (
+            <Layout {...this.props}>
+              <article className="post post-full">
+                <header className="post-header has-gradient outer">
+                  {_.get(this.props, 'pageContext.frontmatter.image', null) && (
+                  <div className="bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null)) + '\')')}/>
+                  )}
+                  <div className="inner-sm">
+                    <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+                    {_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
+                    <div className="post-subtitle">
+                      {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}
+                    </div>
+                    )}
+                  </div>
+                </header>
+                <div className="inner-md outer">
+                  <div className="post-content">
+                    {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                  </div>
+                  <form name={_.get(this.props, 'pageContext.frontmatter.form_id', null)} id={_.get(this.props, 'pageContext.frontmatter.form_id', null)} {...(_.get(this.props, 'pageContext.frontmatter.form_action', null) ? ({action: _.get(this.props, 'pageContext.frontmatter.form_action', null)}) : null)} name="contact" action="" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                        <div className="screen-reader-text">
+                          <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+                        </div>
+                        <input type="hidden" name="form-name" value={_.get(this.props, 'pageContext.frontmatter.form_id', null)} />
+                        {_.map(_.get(this.props, 'pageContext.frontmatter.form_fields', null), (field, field_idx) => (
+                          <FormField key={field_idx} {...this.props} field={field} />
+                        ))}
+                        <div className="form-submit">
+                          <button type="submit" className="button">{_.get(this.props, 'pageContext.frontmatter.submit_label', null)}</button>
+                        </div>
+                      </form>
+                </div>
+              </article>
+            </Layout>
+        );
+    }
 }
