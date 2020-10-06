@@ -34,24 +34,8 @@ export default function Contact() {
       .catch((error) => alert(error))
   }
 
-    const formStyle = {
-      alignSelf: 'center',
-      width: "100%",
-    }
-    const inputStyle = {
-        width: "100%"
-    }
-    const buttonStyle = {
-        alignSelf: 'center',
-        backgroundColor: '#0066f9',
-        color: '#fff',
-        width: 350,
-        height: 40
-    }
-
   return (
     <div>
-      <h1>Contact Us</h1>
       <form
         style={formStyle}
         name="contact"
