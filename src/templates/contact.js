@@ -22,11 +22,11 @@ export const query = graphql`
   }
 `;
 
-const [state, setState] = React.useState({})
 
 export default class Page extends React.Component {
+
     render() {
-      
+      const [state, setState] = React.useState({})
 
       const handleChange = (e) => {
         setState({ ...state, [e.target.name]: e.target.value })
