@@ -69,9 +69,10 @@
       {
         "type": "action_menu",
         "label": "Gallery",
-        "url": "/",
+        "url": "https://www.facebook.com/pg/Nemesis-Cheer-and-Dance-103294621499609/photos/?tab=album&album_id=103313164831088&ref=page_internal",
         "style": "link",
-        "has_subnav": false
+        "has_subnav": false,
+        "new_window": true
       },
       {
         "type": "action_menu",

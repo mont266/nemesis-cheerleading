@@ -13,18 +13,15 @@ sections:
     grid_items:
       - type: grid_item
         title: About Us
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: Created in 2020, Nemesis Cheer is cheerleading and dance group in Northern Ireland run by qualified and experienced cheerleaders.
         actions:
           - type: action
-            label: Get Started
+            label: Learn More
             url: /about
             style: link
       - type: grid_item
         title: Classes
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: We offer classes for a few different age groups. Please check out our "classes" information on the "Learn More" page to see what each one offers.
         actions:
           - type: action
             label: View Classes
@@ -32,9 +29,7 @@ sections:
             style: link
       - type: grid_item
         title: Contact Us
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: If you have any queries or concerns about our classes or what we offer please get in touch with us. You can also contact us on Social Media.
         actions:
           - type: action
             label: Contact Us
@@ -45,18 +40,13 @@ sections:
     section_id: text-img
     image: images/10.jpg
     image_position: left
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: We're always updating our page with new photos of classes and updates! Like our Facebook page to keep track of any new photos or updates!
     actions:
       - type: action
-        label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - type: action
         label: View Gallery
-        url: /docs/getting-started
+        url: https://www.facebook.com/pg/Nemesis-Cheer-and-Dance-103294621499609/photos/?tab=album&album_id=103313164831088&ref=page_internal
         style: secondary
+        new_window: true
   - type: section_grid
     title: 
     section_id: features-two-col
@@ -65,9 +55,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Club Policies
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: Like every club, we have rules. It's important that these are followed when joining Nemesis Cheer and Dance. Please read over them if you're thinking about joining us.
         actions:
           - type: action
             label: Learn More
@@ -81,7 +69,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /showcase
+            url: /docs/coaching-opportunities
             style: link
   - type: section_cta
     title: Join Today!
