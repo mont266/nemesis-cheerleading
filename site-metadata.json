@@ -111,14 +111,6 @@
         "style": "icon",
         "icon_class": "fa-facebook",
         "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "icon",
-        "icon_class": "fa-twitter",
-        "new_window": true
       }
     ]
   }

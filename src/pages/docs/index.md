@@ -1,14 +1,12 @@
 ---
-title: Welcome to Nemeis Cheer and Dance!
+title: Welcome to Learn More!
 template: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Welcome to Nemesis Cheer and Dance Learn More page!
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+This is our information hub where we can keep all our important information together in one place. Here you can view all of our up-to-date policies, information on coaching opportunities, class information and more!
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+If you have any further questions that this section of the website doesn't already answer, please feel free to use our <a href="/contact-us">Contact Form</a>.
