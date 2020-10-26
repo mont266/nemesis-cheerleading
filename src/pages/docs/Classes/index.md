@@ -5,7 +5,7 @@ excerpt: >-
 template: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+We offer a few different classes at Nemesis Cheer and Dance! Below is all the information needed to know about our three age group classes!
 
 ***
 

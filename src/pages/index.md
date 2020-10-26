@@ -63,13 +63,11 @@ sections:
             style: link
       - type: grid_item
         title: Junior Coaching Opportunities
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: At Nemesis Cheer and Dance we are giving yourself or your child coaching opportunities to help out at our classes.
         actions:
           - type: action
             label: Learn More
-            url: /docs/coaching-opportunities
+            url: /docs/coaching-opportunities/junior-coaching
             style: link
   - type: section_cta
     title: Join Today!

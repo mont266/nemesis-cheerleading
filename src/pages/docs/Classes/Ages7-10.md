@@ -5,97 +5,13 @@ template: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  This class is on a <strong>Monday</strong>.
 </div>
 
-### Syntax highlighting
+Our age 7-10 class is all about having fun and gaining new skills! 
 
-You can add a language identifier to enable syntax highlighting in your code block. For example, to highlight the **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
+This class is recreationally based and caters for a variety of different levels from little to no experience, right the way through! Our class gives kids a chance to work with Pom Poms, meet other kids and learn a variety of different cheerleading elements including jumps and tumbling. As well as, cheer dance, Pom dance and hip hop. Our class also focuses on helping children have fun and interact with each other through our games and activities! This class also works with a star chart programme to reward their hard work and good behaviour, along with presentation of certificates at the end of some of our terms, such as christmas! Perfect for any child that wants to try something new or get more experience and confidence in cheerleading.
 
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
+## Price
 
-The rendered output looks like this:
-
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
-
-<pre>
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
-
-The rendered output looks like this:
-
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-
-## Callouts
-
-There are two types of callouts available in this theme, **important** and **note**.
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note or tip.
-</div>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-| Name | Required | Type | Description |
-| ---- | --- | --- | --- |
-| type | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
-| label | Required | `string` | The label of the model |
-| description | | `string` | Description of the model. Used by some CMS. |
-| fields | | `list` of `objects` | List of Field Models |
+Contact us today to get signed up for this class! All members must pay a <strong>£15 registration fee</strong>, which includes a free T-shirt! Classes are paid by terms of 8 weeks priced at £32 per term and can be paid as a full term or half term (£16). Family rates our available please contact us for more information! All payments are non refundable 

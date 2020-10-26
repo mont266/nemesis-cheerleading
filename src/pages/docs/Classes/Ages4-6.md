@@ -6,121 +6,13 @@ template: docs
 
 <div class="note">
   <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  This class is on a <strong>Monday</strong>.
 </div>
 
-## Callouts
+This class is perfect for beginners age 4-6, open to both boys and girls! 
 
-<hr>
+We spend our classes working on different dance styles, including, Pom, hip hop and cheer dance, We also work on cheerleading jumps and tumbling technique. As well as playing games and carrying out fun activities to help children develop their all important fundamentals of sport, like improving their balance and jumping. Our kids work with a star chart to reward hard work and good behaviour and will receive certificates with newly completed skills at special points in the year such as Christmas and summer break! We aim to accommodate children of all levels, this class is perfect for kids with no cheer or dance experience, but also for children who have experience and want to try something new while having fun! 
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+## Price
 
-### HTML example
-
-Copy the code and modify these blocks according to your needs.
-
-```html
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
-
-```html
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
-### Live example
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-
-## Code blocks
-
-<hr>
-
-<div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
-</div>
-
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
-
-<pre>```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-### Syntax highlighting
-
-You can add a language identifier to enable syntax highlighting in your code block. For example, to syntax highlight **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
-
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-The rendered output looks like this:
-
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-## Tables
-
-<hr>
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
+Contact us today to get signed up for this class! All members must pay a <strong>£15 registration fee</strong>, which includes a free T-shirt! Classes are paid by terms of 8 weeks priced at £32 per term and can be paid as a full term or half term (£16). Family rates our available please contact us for more information! All payments are non refundable 

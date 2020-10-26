@@ -4,133 +4,60 @@ weight: 1
 template: docs
 ---
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+Our coaching staffs at Nemesis Cheer and Dance want to provide as many opportunities as possible to our athletes. Seniors athletes will be provide with the chance to gain coaching experience and qualifications, through participation at Nemesis! 
 
-## Callouts
 
-<hr>
+Our assistant/ junior coaches will be expected to display maturity, responsibility, patience, reliability and use their own initiative and communication skills. As well as setting a good example for the children they are coaching. Junior coaches will help coach younger classes and will have responsibilities, including:
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
++ Arriving before class to help set up equipment and welcome children as they arrive.
 
-### HTML example
++ Sit with the children during warm up.
 
-Copy the code and modify these blocks according to your needs.
++ Demonstrate basic shapes and skills while the head coach explains them.
 
-```html
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
++ Help ensure children’s safety by engaging and aware of what’s going on.
 
-```html
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
-### Live example
++ Help manage negative behaviour.
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
++ Join in with the cool down and games at the end of class.
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note.
-</div>
++ Attend classes reliably and let the rad coach know in advance if they cannot attend.
 
-## Code blocks
 
-<hr>
+## Benefits
 
-<div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
-</div>
++ Coaching experiences looks great on CV’s, UCAS applications and job applications.
 
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
++ Coaching qualifications.
 
-<pre>```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
++ Child protection and first aid training.
 
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
++ Free Nemesis merchandise. 
 
-### Syntax highlighting
 
-You can add a language identifier to enable syntax highlighting in your code block. For example, to syntax highlight **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
+## The downside
 
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
++ These positions are an unpaid, volunteering basis.
 
-The rendered output looks like this:
++ Requires commitment from you to attend your selected class each week.
 
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
++ If we have a large in date of junior coaches we will not be able to accept them all at one time, therefore it may take a little while for opportunities to become available.
 
-## Tables
++ Not all coaches can be put through qualifications at once coaches who show the most dedication will get qualified first.
 
-<hr>
 
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
+## Requirements
 
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
++ You must be age 14 or over.
 
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
++ Fill in the application form attached and email it to Nemesischeeranddance@gmail.com or bring it class.
 
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
++ Get your parent or guardian to fill out their form and bring it class (this must be signed).
 
-## Start using Libris theme
++  You may be required to have an AcessNI completed
 
-<hr>
+## Forms
 
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
+<a href="https://drive.google.com/file/d/1dJ1WkJeVR23F5n5SQdi7_FInL76Q3hCa/view?usp=sharing" target="_blank">Junior Coach Application</a>
 
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+<a href="https://drive.google.com/file/d/1fMZdwL5u9tEu1ygDcvPpO5kKWluUpJs9/view?usp=sharing" target="_blank">Parental Sign-Off Form</a>
