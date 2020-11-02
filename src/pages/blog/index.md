@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: This is an optional subtitle for the blog page
+subtitle: 
 image: images/5.jpg
 template: blog
 ---
