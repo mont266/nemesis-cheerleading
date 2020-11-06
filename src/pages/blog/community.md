@@ -1,14 +1,15 @@
 ---
-title: Your First Blog Post
-date: 2020-10-10T23:00:00.000Z
-image: images/2.jpg
-excerpt: This is the exerpt - A small description about what this blog post is about!
+title: "New website "
+date: 2020-11-06T00:00:00.000Z
+thumb_image: /images/5.jpg
+image: ""
+excerpt: ""
 template: post
 ---
 **Welcome to your first blog post!**
 
-Here you can feel free to edit and change the featured and Alt featured images.
+Welcome to our brand new website and first blog post! We hope our website will help you find all information you need on Nemesis Cheer and Dance and our classes! 
 
-The "Featured" image is the thumbnail image that shows on the "Blog" page of the website
+There are different tabs throughout the website to help you find what you are looking for! 
 
-The "Alt Featured" image is the image that is displayed at the header of the actual blog post.
+While are classes are currently online, we are happy to provide any further information on classes, please get in touch if you have any questions!
