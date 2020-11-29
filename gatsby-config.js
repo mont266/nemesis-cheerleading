@@ -72,6 +72,12 @@ module.exports = {
                 display: 'standalone',
                 icon: 'public/images/favicon.png',
             }
+        },
+        {
+            resolve: `gatsby-plugin-google-adsense`,
+            options: {
+              publisherId: `ca-pub-1704206988697541`
+            },
         }
     ]
 };
