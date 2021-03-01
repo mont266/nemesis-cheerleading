@@ -2,6 +2,7 @@
 title: Pro Shop!
 subtitle: "Checkout our brand new pro shop "
 date: 2021-02-25T19:47:01.256Z
+image: /images/index.jpg
 template: post
 ---
 Checkout our brand new pro shop! With all of our merchandise available to purchase from 
