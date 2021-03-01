@@ -1,6 +1,8 @@
 ---
 title: Club update January 2021
 date: 2021-01-02T19:37:07.725Z
+thumb_image: /images/image.jpeg
+image: ""
 template: post
 ---
 <!--StartFragment-->
