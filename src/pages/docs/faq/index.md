@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Family Rates and Multiple Classes
 excerpt: >-
   In this section you'll find commonly asked questions regarding the Nemesis Cheer and Dance team. If you have questions, don’t hesitate to ask us directly.
 template: docs
