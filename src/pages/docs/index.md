@@ -14,22 +14,22 @@ If you have any further questions that this section of the website doesn't alrea
 ## Class Timetable
 # Monday
 
-+ 3.15pm - 4pm: Tiny Tots recreational (Age 3-5)
-+ 4.15pm - 5pm: Age 4-6 Recreational
-+ 5.15pm - 6.15pm: Age 7-10 Recreational
-+ 6.30pm - 7.45pm: Junior/Senior Competition
++ 3.15pm - 4pm: Tiny Tots Tumbles recreational (Age 3-5)
++ 4.15pm - 5pm: Mini Cheer Recreational
++ 5.15pm - 6.15pm: Youth Cheer Recreational
++ 6.30pm - 7.45pm: Junior Competitive
 
 # Tuesday (To Be Confirmed)
 
-+ 3.15pm - 4pm: Tiny Stunt
-+ 4.15pm - 5.30pm: Tiny/Mini Cheer
-+ 5.45pm - 7pm: Youth Cheer
++ 4pm - 5.15pm: Competitive Tiny Cheer
++ 5.30pm - 6.45pm: Competitive Youth Cheer
 
 # Wednesday
 
-+ 5pm - 6pm: Recreational Pom
-+ 6.15pm - 7pm: Adult Pom Fitness (Available for 16+)
++ 5pm - 6pm: Recreational Youth Pom
 
-# Thursday
+## Pricing
+All classes have a registration fee of <strong>£25</strong>. This must be paid before the athlete can take part in class. This fee includes a Nemesis T-Shirt. There is also a registration form that must be filled out before class.
 
-+ We will be trying to secure a Thursday for a flex, stretch and conditioning class for each age group.
+## Season Pack Download
+Download the full season pack <a href="https://drive.google.com/file/d/1jwOKViRcl__r4yTtA_hWf3atSWz1vA4o/view?usp=sharing" target="_blank">here</a>.
