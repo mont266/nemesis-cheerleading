@@ -69,13 +69,13 @@ sections:
             url: /docs/policies
             style: link
       - type: grid_item
-        title: Junior Coaching Opportunities
-        content: At Nemesis Cheer and Dance we are giving yourself or your child
-          coaching opportunities to help out at our classes.
+        title: Competition Teams
+        content: We have a few different competition teams at Nemesis Cheer and Dance.
+          Click "Learn More" to find out more about them.
         actions:
           - type: action
             label: Learn More
-            url: /docs/coaching-opportunities/junior-coaching
+            url: /docs/coaching-opportunities
             style: link
   - type: section_cta
     title: 2021-2022 Season Pack
