@@ -47,4 +47,4 @@ These classes are non competitive and based on working on new skills and having 
   For ages <strong>11+</strong>.
 </div>
 
-#### Senior Classes are on every Monday - 5pm-6pm.
+#### Senior Classes are on every Tuesday - 6.45pm-7.45pm.
