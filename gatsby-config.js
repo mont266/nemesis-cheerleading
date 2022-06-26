@@ -1,5 +1,5 @@
 const siteMetadata = require('./site-metadata.json')
-const sass = require('node-sass');
+const sass = require('sass');
 const sassUtils = require('node-sass-utils')(sass);
 
 module.exports = {

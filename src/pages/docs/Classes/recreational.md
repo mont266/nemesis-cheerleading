@@ -6,41 +6,45 @@ template: docs
 
 <div class="note">
   <strong>Note:</strong> 
-  Price works out at only <strong>£4.50</strong> per class!
+  Recreational classes are available for age 3+. Priced at £20 per four weeks of class.
 </div>
 
 These classes are non competitive and based on working on new skills and having fun at the same time.
 
-## Price
+## Tiny Tots
+<div class="note">
+  <strong>Note:</strong>
+  For ages <strong>3-4</strong> only.
+</div>
 
-Recreational classes are priced at <strong>£18</strong> per four weeks. All recreational classes have a registration fee of <strong>£25</strong>. This must be paid before the athlete can take part in class. There is also a registration form that must be filled out before class. Please contact us to get a copy of this form. Our recreational kids will not perform at any competitions. They will receive their Nemesis T-Shirt when their registration fee is paid and will have the option to perform at any non-competitive performances we have, when possible.
+#### Tumble & Stunt is on every Monday 3.15pm-4pm.
+#### Dance & Tumble is on every Thursday 4.45pm-5.30pm.
+
+<strong>Please note: Tiny tots kids must be able to take themselves to and from the bathroom confidently and stay unaccompanied by a parent.</strong>
 
 ## Mini-Cheer
 <div class="note">
   <strong>Note:</strong>
-  This class is on every <strong>Monday</strong> at <strong>4.15pm to 5pm</strong>.
+  For ages <strong>4-6</strong>.
 </div>
 
-For ages: 4-6.
+#### Mini Cheer is on every Monday 4.15pm-5pm.
+#### Mini Pom is on every Wednesday 4.45pm-5.30pm.
 
-This class focuses on the basics of cheerleading and having fun. This class consists of lots of games and obstacle course to help children develop their cheerleading skills as well as basic skills such as running, catching and jumping. This class also take part in stunts and cheer dance. 
 
 ## Youth Cheer
 <div class="note">
   <strong>Note:</strong>
-  This class is on every <strong>Monday</strong> at <strong>5.15pm to 6.15pm</strong>.
+  For ages <strong>7-10</strong>.
 </div>
 
-For ages: 7-10.
+#### Youth Cheer is on every Monday 5.15pm-6.15pm.
+#### Youth Pom is on every Wednesday 5.45pm-6pm.
 
-This class consists of tumbling, cheer jumps, stunts and cheer dance. This class works on all elements of cheerleading without the competitive aspect. We also incorporate games and obstacle courses to keep it fun.
-
-## Pom Dance
+## Senior
 <div class="note">
   <strong>Note:</strong>
-  This class is on every <strong>Monday</strong> at <strong>5pm to 6pm</strong>.
+  For ages <strong>11+</strong>.
 </div>
 
-For ages: 7-10.
-
-In this class kids learn a variety of Pom, Jazz and Cheer based dance. In addition to this every other week we focus on their tumbling skills and jumps. Kids in this class also get to participate in a variety of games and obstacle courses that are aimed towards achieving their skills.
+#### Senior Classes are on every Monday - 5pm-6pm.

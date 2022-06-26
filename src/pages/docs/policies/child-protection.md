@@ -503,3 +503,8 @@ situations.</td>
 
 ## Child protection officer at Nemesis
 + <strong>Head coach</strong> - Shania Watton
++ If unavailable please see the coach in charge of the session.
+
+<strong>Policy reviewed on 22nd June 2022 by Shania Watton.</strong>
+
+Download a PDF version of the Child Protection Policy <a href="https://drive.google.com/file/d/1EY0IaZ-7h8gEbWLPrXg8Ve2nU5aKvxTp/view?usp=sharing" target="_blank">here</a>.

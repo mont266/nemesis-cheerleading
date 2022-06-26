@@ -1,25 +1,20 @@
 ---
-title: Competition Schedule
+title: Competition Schedule 2022-2023
 weight: 5
 template: docs
 ---
 
+## DC12 Neon
+<div class="note">
+    <strong>Dates: 21st - 22nd January 2023 - Belfast</strong>
+</div>
+
 ## Ice Frost Fest
 <div class="note">
-    <strong>Dates: 5th February - 6th February 2022.</strong>
+    <strong>Dates: 4th - 5th Feburary 2023 - Antrim</strong>
 </div>
 
-So far we only have this one competition planned for this season.
-
-This competition is usually the most expensive one at about £20/£22 per entry plus £10-£20 per crossover/stunt group.
-
-## Other Competitions
-
-Other possible competitions include:
-+ UKCA which is usually priced around £10-£15 between February and March. Plus the same again from crossover/stunt group.
-+ CDFNI which is usually around £15 per entry plus £10 per crossover.
-
+## Celtic Spirit
 <div class="note">
-    <strong>PLEASE NOTE: These prices could change as they are estimated based on past competitions.</strong>
+    <strong>Dates: 4th - 5th March 2023 (Date TBC) - Galway</strong>
 </div>
-

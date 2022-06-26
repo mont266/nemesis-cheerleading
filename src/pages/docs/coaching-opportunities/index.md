@@ -1,23 +1,22 @@
 ---
-title: Competition Teams
-excerpt: In this section you'll find basic information about Libris and how to use it.
+title: Competition Info
+excerpt: Information on our cheer competitions.
 template: docs
 ---
 
-Before considering any of our competition teams please remember it is a larger commitment both time wise and financially. Also, due to COVID-19 we cannot guarantee that we will get to compete this year.
+Before considering any of our competition teams please remember it is a larger commitment both time wise and financially.
 
 ## Pricing
 
-Competition team four weekly payments will be <strong>£20</strong>. This works out at <strong>£5</strong> for over an hour of class. As well as our <strong>£25</strong> registration fee.
+Competition teams are open to boys and girls aged 4+. Competition teams do all performances and competition throughout the year. Pre season training begins in August and our season runs to June each year. Tryouts are required for all competition team athletes. For more information on our competition teams please get in touch. 
 
-The registration fee must be paid before your first practice.
-
-In addition to this, Competition teams also have additional expenses, Including:
-
-+ Uniform - Cheerleading uniform is usually around <strong>£100</strong>, although we are trying to limit ours to <strong>£50</strong> for this year. Our uniform for this year will be a brand new competition T-Shirt, Shorts and a Cheer Bow.
-+ Competition Fees
-+ Cheerleading Shoes - Vary depending on brand/size.
-+ Competition costs - Most competitions are in Belfast/Antrim. Ticket cost for parents.
++ Uniform - <strong>£112</strong>
++ Registration Fee - <strong>£25</strong>
++ Class Fees - <strong>£20 Four Weekly</strong>
++ Cheer Shoes - <strong>£20+</strong>
++ Team Cheer Bow - <strong>£10+</strong>
++ Competition Entry Fees - Varies per competition.
++ Competition costs - Travel fees, hotel, spectator tickets.
 
 In addition to this, competition teams also require more commitment. Please see the attendance policy for more details.
 

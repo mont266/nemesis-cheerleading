@@ -14,12 +14,11 @@ victim to defend him or herself” (department of education, 1999).
 affect the rights or needs of another or others.” (Northern Ireland Anti-Bullying Forum).
 </div>
 
-## Impact of Bullying
-
+## Impact of bullying
 If unchecked bullying can impair a child’s ability to learn, develop and participate in classes.
-
 Bullying also impacts a child’s right to protection from all forms of violence, including mental
 and physical violence.
+
 The most commonly recognised type of bullying is by children’s peers. However, it is also
 important to note that bullying can take place between adults and children, as well as
 individuals and groups. Bullying methods can be face to face, indirectly or using cyber-
@@ -35,33 +34,35 @@ Bullying thrives in secrecy, the reluctance of the victim not to talk about it a
 knowledge from responsible adults that this is taking place. Nemesis Cheer and Dance (NCD)
 have a responsibility to create a safe and inclusive learning environment for their
 participants.
-NCD is completely opposed to all forms of bullying. Bullying will not be tolerated at this club.
 
-Bullying is a complete contradiction of the aims and values of NCD.
+<strong>Nemesis Cheer and Dance (NCD)</strong> is completely opposed to all forms of bullying. Bullying will
+not be tolerated at this club. Bullying is a complete contradiction of the aims and values of
+NCD.
+
 This policy is designed alongside NCD Child Protection and club rules.
 
 ## Types of Bullying
-
-+ <strong>Physical</strong> - hitting, kicking, theft of belongings, damage to belongings or use of
+The main types of bullying are (this is not an exhaustive list)
++ Physical- hitting, kicking, theft of belongings, damage to belongings or use of
 implements to deliberately cause harm.
-+ <strong>Verbal</strong> - threats, name calling, deliberately spreading damaging rumours, sarcasm,
++ Verbal- threats, name calling, deliberately spreading damaging rumours, sarcasm,
 swearing, persistent teasing, ridiculing, demeaning, taunting a pupil, insulting
 someone’s appearance/ abilities/ disabilities/ achievements/ families.
-+ <strong>Religion based</strong> - religious taunts.
-+ <strong>Indirect</strong> - social exclusion or rejection, graffiti, gestures.
-+ <strong>Sexual</strong> - unwanted physical contact, abusive comments, name calling, use of
++ Religion based- religious taunts.
++ Indirect- social exclusion or rejection, graffiti, gestures.
++ Sexual- unwanted physical contact, abusive comments, name calling, use of
 sexualised language, sexting, homophobic name calling.
-+ <strong>Racist</strong> - racist taunting or name calling.
-+ <strong>Cyber bullying</strong> - use of the internet or other electronic communication. Texting, (calls
++ Racist- racist taunting or name calling.
++ Cyber bullying- use of the internet or other electronic communication. Texting, (calls
 or images), tweets, blogs, forums, chat rooms and use of social networking to hurt,
 harass, embarrass, demean, provoke or humiliate another using perceived
 anonymity.
 
-<strong>Mobile phones and social networking websites/ applications such as Snapchat, Facebook,
+Mobile phones and social networking websites/ applications such as Snapchat, Facebook,
 Instagram, Twitter, TikTok, and YouTube can be used for negative purposes and misuse
-can lead to involvement from the PSNI.</strong>
+can lead to involvement from the PSNI.
 
-## How Bullying Affects the Target/Victim
+## How Bullying Affects the Target/ Victim?
 Bullied children will not always be prepared to tell those in authority. However, when a disclosure is
 made, it should be treated seriously. While others may not feel certain that certain actions or words
 are of a bullying nature, if the recipient feels they are being bullied that is sufficient evidence to treat
@@ -77,20 +78,22 @@ the case as bullying. Bullying can result in a decrease in the victim’s capaci
 + Illness caused by stress, loss of sleep and change in eating habits.
 + Out of character aggression or temper.
 + Attempts to inflict harm on them self.
-(These behaviours can be symptomatic of other problems, that aren’t bullying related).
 
-## Consequences of Bullying
-+ Bullying can have detrimental effects on the victim. NCD staff will do everything they can to ensure
+(These behaviours can be symptomatic of other problems, that aren’t bullying related).
+Consequences of bullying
+
+Bullying can have detrimental effects on the victim. NCD staff will do everything they can to ensure
 incidents of bullying are not repeated. Incidents of bullying could result in the bully:
 + Being given targets to improve their unsociable behaviour.
 + Both children being interviewed to determine the form of bullying.
-+ Support to both the victim and the bully, to improve their behaviour.
++ Support to the victim. As well as the bully, to improve their behaviour.
 + Repeated incidents of serious bullying could result in the removal of the bully from class.
 
 ## How we aim to help the target/ victim
 NCD has a responsibility to create a supportive and disciplined environment which will foster the
-individual development and caring for children and young people. NCD aims to do this by:
+individual development and caring for children and young people. 
 
+#### NCD aims to do this by:
 + Creating a supportive environment
 + By taking bullying and the impact of bullying seriously.
 + Bullying investigations will involve both the bully and the bullied and will aim to resolve
@@ -99,7 +102,7 @@ these issues as best as possible.
 + The bully will be supported in recognising their unsociable behaviour and provided support
 to improve and modify their behaviour.
 
-## The club will
+#### The club will
 + Take all bullying problems seriously.
 + Investigate all incidents thoroughly.
 + Insure bullies and victims are interviewed separately.
@@ -107,15 +110,13 @@ to improve and modify their behaviour.
 + Inform staff about incidents involving NCD athletes.
 + Ensure action is taken to prevent further bullying.
 
-### Such actions may include
-
+Such actions may include:
 + Obtaining an apology.
 + Informing parents of the bullied and the bully.
 + Provide support for both the bully and the victim.
 + Mediation between the bully and victim.
 
 ## Role and responsibility surrounding bullying
-
 ### Roles of coaches, volunteers and staff
 + Encourage athletes to have self confidence, positive self esteem, self respect and respect for
 others.
@@ -132,7 +133,7 @@ record and act to support and protect them.
 on what action has been taken.
 + Deal with incidents of bullying promptly and effectively.
 
-## Responsibility of Athletes
+### Responsibility of Athletes
 Pupils in general:
 + Follow the rules of Nemesis Cheer and Dance.
 + Refrain from becoming involved in any type of bullying, in or outside of NCD classes, even
@@ -147,7 +148,7 @@ when risking temporary unpopularity.
 Victims of bullying:
 + Not to suffer in silence. Have the courage to speak up and tell an adult.
 
-## Responsibility of parents/guardians
+### Responsibility of parents/guardians
 We ask parents support us by:
 + Watch for signs of distress or unusual behaviour in their children, which could be evidence
 of bullying.
@@ -160,7 +161,7 @@ consequences of bullying and the impact it can have on victims, especially if le
 + Co-operating with NCD, if their child is accused of bullying, try to gain the truth, and point
 out the implications of bullying, both for their child and the child being bullied.
 
-## Responsibility of all
+### Responsibility of all
 + Work together to create a safe, happy, positive, anti-bullying environment in our club.
 Preventative actions to create an anti-bullying environment
 + Promote a caring, safe environment at all times.
@@ -181,31 +182,34 @@ been reported to.
 + Significant/repeated incidents will result in parent or guardian being informed.
 
 ## Procedure for dealing with bullying
+#### Step one- reporting of incident
++ When an incident is reported it will be passed on to the head coach or child development officer.
 
-<strong>Step one</strong> - reporting of incident
-When an incident is reported it will be passed on to the head coach or child development officer.
-
-<strong>Step two</strong> - investigation of incident
+#### Step two- investigation of incident
 + Following on from step one the incident will be investigated by the appropriate member of
 staff.
 + Pupils involved will be interviewed and a report will be made of their response, using an
 incident form.
 + Parents/ guardians will be informed with NCD plan to follow up.
 
-<strong>Step three</strong> - agreeing a polar for resolution
+#### Step three- agreeing a polar for resolution
 + A plan will be designed to resolve the conflict.
 + Targets for acceptable behaviour will be set out, including support for all involved.
 
-<strong>Step four</strong> - reviewing the situation
+#### Step four- reviewing the situation
 + The situation will be monitored and reviewed within one month of the initial report.
 + This will involve the designated member of staff, other members of staff if needed, the
 children involved and their parents, if necessary.
 
-<strong>Step five</strong> - involvement of other agencies
-Where necessary NCD will seek advice of other agencies, such as NSPCC.
+#### Step five- involvement of other agencies
++ Where necessary NCD will seek advice of other agencies, such as NSPCC.
 
 ## Monitoring, evaluation and review of the anti-bullying policy
-This policy will be monitored and implemented by the head coach/ child protection officer for NCD.
+This policy will be monitored and implemented by the head coach / child protection officer for NCD.
 The policy will be reviewed and evaluated by all members of staff every two years.
 This policy along with other child protection policies for NCD will be made available to all staff,
 parents and athletes of NCD.
+
+<strong>Policy reviewed on 22nd June 2022 by Shania Watton.</strong>
+
+Download a PDF version of the Anti-Bullying Policy <a href="https://drive.google.com/file/d/1y8-78pE6rREzfe8RUUCGQDkH5kQ8Wblu/view?usp=sharing" target="_blank">here</a>.

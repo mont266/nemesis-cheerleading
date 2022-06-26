@@ -5,10 +5,17 @@ image: images/5.jpg
 template: page
 ---
 
-<img src="images/about-us.jpg">
+<img src="images/about-us2.jpg">
 
 <hr>
 
-Nemesis Cheer and Dance is a local cheerleading club in Coleraine. The club was established with the aim of providing an inclusive environment for children and young people to learn and participate in cheer and dance. Our coaches aim to not only help every athlete in our care, develop cheerleading skills, but also develop their confidence, help them make friends and develop skills that can be applied to all life aspects. As well as having fun.
+Nemesis Cheer and Dance was established in September 2020 based in Coleraine Northern Ireland. We had a few weeks of classes before being shut down due to Covid. We reopened in May 2021 and our club has been growing ever since. 
 
-We currently provide recreational classes, with competitive team classes, coming in 2021. Our classes are available to anyone from athletes age four and up, everyone is welcome within our classes. Classes are suitable for athletes with no experience, as well as those who have previous experience. Our classes provide something for everyone, whether it’s gaining new skills, making new friends or to participate in a fun sport, please  get in touch to find out more
+
+Our head coach has over 7 years experience coaching both recreational and competitive classes.
+
+
+The club was established with the aim of providing an inclusive environment for children and young people to learn and participate in cheer and dance. Our coaches aim to not only help every athlete in our care, develop cheerleading skills, but also develop their confidence, help them make friends and develop skills that can be applied to all life aspects. As well as having fun. Our classes provide something for everyone, whether it’s gaining new skills, making new friends or to participate in a fun sport.
+
+
+We run a range of competition and recreational classes, classes are available for age 3+. Classes run from Monday - Friday with private tumbling classes available on request. Please get in touch to find out more.

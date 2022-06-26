@@ -28,7 +28,7 @@ sections:
         actions:
           - type: action
             label: View Classes
-            url: /docs/classes
+            url: /docs/Classes
             style: link
       - type: grid_item
         title: Contact Us
@@ -78,13 +78,13 @@ sections:
             url: /docs/coaching-opportunities
             style: link
   - type: section_cta
-    title: 2021-2022 Season Pack
+    title: 2022-2023 Information Pack
     section_id: cta
-    subtitle: Download our informational pack for the current season.
+    subtitle: View our informational pack to find out more.
     actions:
       - type: action
-        label: Get Started
-        url: https://drive.google.com/file/d/1jwOKViRcl__r4yTtA_hWf3atSWz1vA4o/view?usp=sharing
+        label: Have A Look
+        url: https://drive.google.com/file/d/1hknwUGk02g1mH16A8WylflJny3i6alGu/view?usp=sharing
         style: primary
         new_window: true
   - type: section_content

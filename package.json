@@ -1,4 +1,5 @@
 {
+  "node-sass": "npm:sass@^1.53.0",
   "name": "nemesis-cheer-and-dance",
   "description": "Nemesis Cheer and Dance",
   "version": "0.0.1",
@@ -30,7 +31,6 @@
     "marked": "^0.6.1",
     "moment": "^2.29.1",
     "moment-strftime": "^0.5.0",
-    "node-sass": "^4.11.0",
     "node-sass-utils": "^1.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -41,6 +41,7 @@
     "sprintf-js": "^1.1.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.8"
+    "@babel/core": "^7.13.8",
+    "sass": "^1.53.0"
   }
 }
