@@ -69,13 +69,13 @@ sections:
             url: /docs/policies
             style: link
       - type: grid_item
-        title: Competition Info Pack 22/23
+        title: Competition Info Pack 23/24
         content: Have a read through our competition info pack for 2022-2023 for information on competition pricing, tryouts and more.
           Click "Download" to find out more.
         actions:
           - type: action
             label: Download
-            url: https://drive.google.com/file/d/1bqe4CG2sz6aLzgN7ku24QhKLtOn0e5AC/view?usp=sharing
+            url: https://drive.google.com/file/d/16unWdNUOklBl_ehGBc9ZxiOTenHLy5Ss/view?usp=sharing
             style: link
   - type: section_cta
     title: 2022-2023 Information Pack
