@@ -31,14 +31,21 @@ sections:
             url: /docs/Classes
             style: link
       - type: grid_item
-        title: Contact Us
-        content: If you have any queries or concerns about our classes or what we offer
-          please get in touch with us. You can also contact us on Social Media.
+        title: Birthday Parties!
+        content: >-
+          Nemesis Birthday parties are designed to suit each child’s group! 
+
+
+          We do our best to accommodate any requests, such as song requests or choices. 
+
+
+          View our birthday packages [here](https://docs.google.com/document/d/1Vq1eIuNTwLz7w9J5J5tmLD22XCyrcp6A/edit?usp=share_link&ouid=102441982541709011099&rtpof=true&sd=true)!
         actions:
           - type: action
-            label: Contact Us
-            url: /contact-us
+            label: Download Booking Form
+            url: https://drive.google.com/file/d/1-4GGnTAPDu8wL2hsCGPMl7OLE3q1iIsZ/view?usp=share_link
             style: link
+            new_window: true
   - type: section_content
     title: Gallery
     section_id: text-img
@@ -70,8 +77,9 @@ sections:
             style: link
       - type: grid_item
         title: Competition Info Pack 23/24
-        content: Have a read through our competition info pack for 2022-2023 for information on competition pricing, tryouts and more.
-          Click "Download" to find out more.
+        content: Have a read through our competition info pack for 2022-2023 for
+          information on competition pricing, tryouts and more. Click "Download"
+          to find out more.
         actions:
           - type: action
             label: Download
