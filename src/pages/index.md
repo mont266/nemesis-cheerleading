@@ -33,8 +33,7 @@ sections:
       - type: grid_item
         title: Birthday Parties!
         content: >-
-          Nemesis Birthday parties are designed to shut each child’s each
-          group! 
+          Nemesis Birthday parties are designed to suit each child’s group! 
 
 
           We do our best to accommodate any requests, such as song requests or choices. 
