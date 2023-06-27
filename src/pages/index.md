@@ -86,13 +86,13 @@ sections:
             url: https://drive.google.com/file/d/16unWdNUOklBl_ehGBc9ZxiOTenHLy5Ss/view?usp=sharing
             style: link
   - type: section_cta
-    title: 2022-2023 Information Pack
+    title: 2023-2024 Recreational Classes Pack
     section_id: cta
-    subtitle: View our informational pack to find out more.
+    subtitle: View our recreational classes pack to find out more.
     actions:
       - type: action
         label: Have A Look
-        url: https://drive.google.com/file/d/1hknwUGk02g1mH16A8WylflJny3i6alGu/view?usp=sharing
+        url: https://drive.google.com/file/d/1JKUYoIMWxv1CnkSj04aRGLZmGoNd5sXp/view?usp=sharing
         style: primary
         new_window: true
   - type: section_content
